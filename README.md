@@ -1,4 +1,4 @@
-# CandyMachine
+# Candy Machine
 Skittle Candy Dispenser
 
 The following information is included in the Tome of Robotics file:
