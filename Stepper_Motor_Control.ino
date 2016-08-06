@@ -1,6 +1,6 @@
 /*
 Authors: Simeng Yang, Ronald Gayowski, Nathan Sheasby
-Item: Skittle Sorting Machine Code, TEJ4M Final Project
+Item: Skittle Sorting Machine Code
 Date: June 16, 2016
 */
 
