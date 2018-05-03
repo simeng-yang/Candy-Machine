@@ -7,5 +7,4 @@ The following information is included in the Tome of Robotics file:
  - Diagrams
  - Parts List
  - Schematics
- - Manufacturing Process description &
- - Self Evaluation / successes
+ - Manufacturing Process description
